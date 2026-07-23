@@ -16,6 +16,8 @@
 ### LCD Display
 ![LCD 1](images/lcd1.jpg)
 ![LCD 2](images/lcd2.jpg)
+### circuit diagram
+![circuit diagram](images/circuit diagram .png)
 
 ---
 
@@ -132,13 +134,9 @@ Full project presentation with system design, fault algorithm flowchart, results
 ---
 
 ## 👨‍💻 Team
+- N. Anirudh 
+- V. Ranjith Kumar 
+- A. Karthik 
+- R. Mahesh Babu 
 
-**Industry Oriented Mini Project (2026–2027)**  
-Department of ECE, Anurag University
 
-- N. Anirudh — 23EG104A43
-- V. Ranjith Kumar — 23EG104A61
-- A. Karthik — 23EG104A02
-- R. Mahesh Babu — 23EG104A51
-
-**Guide:** Mr. M. Murali Krishna, Assistant Professor, Dept. of ECE
