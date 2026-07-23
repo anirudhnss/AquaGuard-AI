@@ -16,8 +16,9 @@
 ### LCD Display
 ![LCD 1](images/lcd1.jpg)
 ![LCD 2](images/lcd2.jpg)
+
 ### circuit diagram
-![circuit diagram](images/circuit diagram .png)
+![circuit diagram](images/circuitdiagram.png)
 
 ---
 
