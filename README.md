@@ -130,7 +130,7 @@ AquaGuard-AI/
 
 ## 📄 Project Report
 
-Full project presentation with system design, fault algorithm flowchart, results, and discussion: [`AquaGuard_AI_Updated.pptx`](AquaGuard_AI_Updated.pptx)
+Full project presentation with system design, fault algorithm flowchart, results, and discussion: [`AquaGuard_AI.pptx`](AquaGuard_AI.pptx)
 
 ---
 
